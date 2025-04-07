@@ -1,6 +1,8 @@
-🚲 RideSafe: Helmet Detection and Traffic Violation Recognition System \n
+🚲 RideSafe: Helmet Detection and Traffic Violation Recognition System 
+
 📘 Overview
 RideSafe is a computer vision-based system designed to enhance road safety by identifying whether motorbike riders are wearing helmets and detecting traffic signal violations in real-time. Leveraging YOLOv8 for object detection and DeepSORT for tracking, RideSafe offers a practical solution for monitoring road rule compliance in urban environments.
+
 
 📁 Project Structure
 bash
